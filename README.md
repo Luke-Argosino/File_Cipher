@@ -16,6 +16,7 @@ Cipher.exe [File to encrypt] [Cipher Technique]
 
 
 ## Todo
+- Decryption
 - [Ceasar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 - [Multiplicative Cipher](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_multiplicative_cipher.htm)
 - [Affine Cipher](https://en.wikipedia.org/wiki/Affine_cipher)

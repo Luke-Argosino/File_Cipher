@@ -5,7 +5,7 @@ A C++ CLI program that encrypts and decrypts files with various cipher technique
 
 ## Usage
 ### CLI
-Cipher.exe [File to encrypt] [Cipher Technique]
+Cipher.exe [File to encrypt] [Output File] [Cipher Technique]
 
 ### Optional Arguments
 -reverse (Reverses the contents of the file after the cipher is applied)
